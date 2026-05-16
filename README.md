@@ -77,4 +77,4 @@ jupyter notebook asset_selection.ipynb
 
 Автор: Казаков Л. К.
 {prorab651@gmail.com/lev_lomkov@mail.ru}
-{Orcid: https://orcid.org/0009-0001-2203-6245}
+{Orcid: https://orcid.org/0009-0001-2203-6245 }
