@@ -3,10 +3,10 @@ message: "Если вы используете этот код, пожалуйс
 authors:
   - family-names: Казаков
     given-names: Лев Константинович
-    orcid: "https://orcid.org/0000-0000-0000-0000"  # подставь свой после регистрации на orcid.org
+    orcid: "https://orcid.org/0009-0001-2203-6245"
 title: "Использование математических методов для оптимизации всепогодного портфеля"
-version: 1.0.0
-date-released: 2026-06-15  # подставь реальную дату защиты или сегодняшнюю
+version: 1.0.1
+date-released: 2026-06-15
 url: "https://github.com/zver322/master_degree_diploma_code"
 license: MIT
 type: software
