@@ -48,7 +48,7 @@
 Рекомендуется Python 3.13. Ноутбук и файл зависимостей сформированы и проверены в среде Python 3.13.9.
 
 ```bash
-git clone https://github.com/zver322/master_degree_diploma_code.git
+git clone https://github.com/levkazakov2002/master_degree_diploma_code.git
 cd master_degree_diploma_code
 
 python -m venv .venv
