@@ -106,7 +106,7 @@ source .venv/bin/activate
 ```bash
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
-python -m pip install jupyterlab openpyxl
+python -m pip install jupyterlab
 jupyter lab main_code.ipynb
 ```
 
@@ -132,7 +132,7 @@ jupyter lab main_code.ipynb
 
 [https://doi.org/10.5281/zenodo.20232640](https://doi.org/10.5281/zenodo.20232640)
 
-До публикации релиза `v2.0.0` код можно цитировать следующим образом:
+Релиз `v2.0.0` рекомендуется цитировать следующим образом:
 
 ```bibtex
 @software{kazakov2026allweather_code,
@@ -149,9 +149,7 @@ jupyter lab main_code.ipynb
                   SPIN-код: ЗАПОЛНИТЬ;
                   Science Index Author ID: ЗАПОЛНИТЬ}
 }
-```
-
-После создания релиза рекомендуется заменить Concept DOI в этой BibTeX-записи на DOI конкретной версии `v2.0.0`. Верхний DOI-бейдж при этом менять не нужно.
+```  
 
 Для цитирования магистерской диссертации:
 
