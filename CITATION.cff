@@ -23,3 +23,25 @@ date-released: "2026-07-28"
 doi: "10.5281/zenodo.21632648"
 
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20232640"
+    description: "Общий Concept DOI, объединяющий все версии программного обеспечения."
+
+  - type: doi
+    value: "10.5281/zenodo.21632648"
+    description: "DOI архивной версии 2.0.0."
+
+repository-code: "https://github.com/levkazakov2002/master_degree_diploma_code"
+url: "https://doi.org/10.5281/zenodo.21632648"
+
+keywords:
+  - "всепогодный портфель"
+  - "многокритериальная оптимизация"
+  - "buy-and-hold"
+  - "портфельная оптимизация"
+  - "Московская биржа"
+  - "ОФЗ"
+  - "управление риском"
+  - "эконометрика"
+
+license: MIT
