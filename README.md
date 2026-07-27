@@ -124,7 +124,11 @@ jupyter lab main_code.ipynb
 
 ## Цитирование
 
-Общий DOI проекта, объединяющий все релизы:
+Архивная версия кода `v2.0.0`, соответствующая результатам статьи:
+
+[https://doi.org/10.5281/zenodo.21632648](https://doi.org/10.5281/zenodo.21632648)
+
+Общий DOI проекта, объединяющий все версии:
 
 [https://doi.org/10.5281/zenodo.20232640](https://doi.org/10.5281/zenodo.20232640)
 
@@ -138,8 +142,8 @@ jupyter lab main_code.ipynb
   year         = {2026},
   publisher    = {Zenodo},
   version      = {2.0.0},
-  doi          = {10.5281/zenodo.20232640},
-  url          = {https://doi.org/10.5281/zenodo.20232640},
+  doi          = {10.5281/zenodo.21632648},
+  url          = {https://doi.org/10.5281/zenodo.21632648},
   note         = {ORCID: 0009-0001-2203-6245;
                   Web of Science ResearcherID: QSP-3560-2026;
                   SPIN-код: ЗАПОЛНИТЬ;
