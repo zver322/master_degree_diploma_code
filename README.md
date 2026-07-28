@@ -146,8 +146,8 @@ jupyter lab main_code.ipynb
   url          = {https://doi.org/10.5281/zenodo.21632648},
   note         = {ORCID: 0009-0001-2203-6245;
                   Web of Science ResearcherID: QSP-3560-2026;
-                  SPIN-код: ЗАПОЛНИТЬ;
-                  Science Index Author ID: ЗАПОЛНИТЬ}
+                  SPIN-код: 4919-4233;
+                  Science Index Author ID: 1355531}
 }
 ```  
 
@@ -172,8 +172,8 @@ GitHub также формирует готовую ссылку из файла
 
 - ORCID - [0009-0001-2203-6245](https://orcid.org/0009-0001-2203-6245)
 - Web of Science ResearcherID - `QSP-3560-2026`
-- SPIN-код РИНЦ - `ЗАПОЛНИТЬ`
-- Science Index Author ID - `ЗАПОЛНИТЬ`
+- SPIN-код РИНЦ - `4919-4233`
+- Science Index Author ID - `1355531`
 
 ## Лицензия
 
