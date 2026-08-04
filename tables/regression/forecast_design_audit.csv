@@ -1,0 +1,7 @@
+﻿Element,Implementation
+Target,Месячная log-доходность того же buy-and-hold портфеля Spec3
+Portfolio weights,Медианные начальные веса оценены портфельным блоком на полной истории
+Information lags,Рынок/FX/спред: 1 месяц; оборот/импорт: 2 месяца
+Estimation,"Expanding window, минимум 60 месяцев, без переоценки на будущем"
+Benchmark,Expanding historical mean на той же OOS-выборке
+Interpretation,"Проверка предсказуемости условно заданного портфеля, не real-time backtest"
